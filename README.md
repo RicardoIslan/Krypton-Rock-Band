@@ -1,26 +1,54 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Krypton
+===
+#### A virtual portal that creates a bridge between the Krypton band and its fans.
 
+Getting Started:
+---
+#### Through this website Krypton fans can see and hear  clips from their back catalog and any new material as it becomes avaible.
+#### They can olso keep up with the music,photos and the band's validity to attentd events.
 
-Hi there! Welcome to Cloud9 IDE!
+Features:
+---
+#### Users can see on this website all the pictures of the band at a high resolution and the last videos posted at a high sound clarity.
 
-To get you started, we included a small hello world application.
+Existing Features:
+---
+- ##### Feature 1 - let users stay connected with their idols on Facebook,Twitter and YouTube.
+- ##### Feature 2 - they can find the contact number for reservation on the event page.
 
-1) Open the hello-world.html file
+Features Left to Implement:
+---
+#### Users will be able to ask questions and get feedback from the band members,live on the website!
 
-2) Click on the Preview button to open a live preview pane
+Technology Used:
+---
+- ###### Browsers
+- ###### HTML
+- ###### CSS
+- ###### JavaScript
+- ###### Bootstrap
+- ###### JQuery
+- ###### Iframe
 
-3) Make some changes to the file, save, watch the preview, and have fun!
+Testing:
+---
+##### 1.Tested in browsers:Chrome,Microsoft Edge,Opera.
+##### 2.The markup validity of web document in HTML have been checked. (https://validator.w3.org/nu/#textarea)
+##### 3.All of the website functionality have been tested and works well.
+##### 4.Screen size test for 372px,480px,720px,1004px.
 
-Happy coding!
-The Cloud9 IDE team
+Credits:
+---
+#### Content:
+- ##### The Navigation Bar was copied from [Bootstrap](https://getbootstrap.com/).
+- ##### The Slideshow was copied from [w3schools](https://www.w3schools.com/).
+- ##### The Social Media Icons were copied from [w3schools](https://www.w3schools.com/).
+- ##### Also some ideas from [Google](https://www.google.com/),[CodeInstitute](https://courses.codeinstitute.net) and [YouTube](https://www.youtube.com).
 
+Media:
+---
+- ##### The photos used in this site were obtained from [Google](https://www.google.com/).
 
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+Acknowledgements:
+---
+- ##### I received inspiration for this project from [CodeInstitute](https://courses.codeinstitute.net).
