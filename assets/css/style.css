@@ -60,14 +60,14 @@ body {
     display: inline-block;
     width: 58px;
     height: 58px;
-    background: rgb(0, 0, 0, 0) no-repeat center center;
+    background: rgba(0, 0, 0, 0) no-repeat center;
     background-size: 100% 100%;
 }
 
 .flex-container {
     display: flex;
     justify-content: center;
-    background-color: #1f8fff00;
+    background-color: rgba(31, 143, 255, 0);
     height: 150px;
 }
 
@@ -115,7 +115,7 @@ body {
 }
 
 .container-fluid {
-    background-color: #0c0c0ce0;
+    background-color: #0c0c0c;
 }
 
 .container-fluid p {
@@ -291,4 +291,3 @@ iframe {
     text-align: center;
     font-family: 'Trade Winds', cursive;
 }
-
