@@ -2,6 +2,10 @@ Krypton
 ===
 #### A virtual portal that creates a bridge between the Krypton band and its fans.
 
+GitHub URL:
+---
+(https://github.com/RicardoIslan/Krypton-Rock-Band.git)
+
 Getting Started:
 ---
 #### Through this website Krypton fans can see and hear  clips from their back catalog and any new material as it becomes avaible.
